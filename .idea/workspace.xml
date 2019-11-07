@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sword/Fourteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sword/Fifteen.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="-645">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fifteen.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sword/Fifteen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,12 +40,8 @@
       <file leaf-file-name="Fourteen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sword/Fourteen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="36" column="62" lean-forward="true" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
-              <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="53" column="32" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="53" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -69,6 +77,7 @@
         <option value="$PROJECT_DIR$/src/Sword/Thirteen.java" />
         <option value="$PROJECT_DIR$/src/Sword/Fourteen.java" />
         <option value="$PROJECT_DIR$/src/readme.txt" />
+        <option value="$PROJECT_DIR$/src/Sword/Fifteen.java" />
       </list>
     </option>
   </component>
@@ -151,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fourteen">
+  <component name="RunManager" selected="Application.Fifteen">
     <configuration name="Eleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sword.Eleven" />
       <module name="algorithm-syd" />
@@ -163,8 +172,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Fourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sword.Fourteen" />
+    <configuration name="Fifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sword.Fifteen" />
       <module name="algorithm-syd" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -174,8 +183,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Ten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sword.Ten" />
+    <configuration name="Fourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sword.Fourteen" />
       <module name="algorithm-syd" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -249,19 +258,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Ten" />
       <item itemvalue="Application.Eleven" />
       <item itemvalue="Application.Twelve" />
       <item itemvalue="Application.Thirteen" />
       <item itemvalue="Application.Fourteen" />
+      <item itemvalue="Application.Fifteen" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fifteen" />
         <item itemvalue="Application.Fourteen" />
         <item itemvalue="Application.Thirteen" />
         <item itemvalue="Application.Twelve" />
         <item itemvalue="Application.Eleven" />
-        <item itemvalue="Application.Ten" />
       </list>
     </recent_temporary>
   </component>
@@ -282,12 +291,12 @@
       <workItem from="1572920775173" duration="5058000" />
       <workItem from="1573005727625" duration="3294000" />
       <workItem from="1573039269899" duration="1682000" />
-      <workItem from="1573092358657" duration="2313000" />
+      <workItem from="1573092358657" duration="4856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34886000" />
+    <option name="totallyTimeSpent" value="37429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
@@ -511,21 +520,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sword/Fourteen.java">
+    <entry file="file://$PROJECT_DIR$/src/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="36" column="62" lean-forward="true" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-645">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme.txt">
+    <entry file="file://$PROJECT_DIR$/src/Sword/Fourteen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="264">
+          <caret line="53" column="32" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/Fifteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
