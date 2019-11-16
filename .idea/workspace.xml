@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sword/ThirtyOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyTwo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sword/ThirtyTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-syd/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-syd/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+            <state relative-caret-position="288">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -38,11 +42,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Thirty.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword/Thirty.java">
+      <file leaf-file-name="ThirtyTwo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="127">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/Sword/TwentyNine.java" />
         <option value="$PROJECT_DIR$/src/Sword/Thirty.java" />
         <option value="$PROJECT_DIR$/src/Sword/ThirtyOne.java" />
+        <option value="$PROJECT_DIR$/src/Sword/ThirtyTwo.java" />
         <option value="$PROJECT_DIR$/src/readme.txt" />
       </list>
     </option>
@@ -177,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThirtyOne">
+  <component name="RunManager" selected="Application.ThirtyTwo">
     <configuration name="Thirty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sword.Thirty" />
       <module name="algorithm-syd" />
@@ -200,6 +208,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="ThirtyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sword.ThirtyTwo" />
+      <module name="algorithm-syd" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="TwentyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sword.TwentyEight" />
       <module name="algorithm-syd" />
@@ -213,17 +232,6 @@
     </configuration>
     <configuration name="TwentyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sword.TwentyNine" />
-      <module name="algorithm-syd" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TwentySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sword.TwentySeven" />
       <module name="algorithm-syd" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -275,19 +283,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TwentySeven" />
       <item itemvalue="Application.TwentyEight" />
       <item itemvalue="Application.TwentyNine" />
       <item itemvalue="Application.Thirty" />
       <item itemvalue="Application.ThirtyOne" />
+      <item itemvalue="Application.ThirtyTwo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirtyTwo" />
         <item itemvalue="Application.ThirtyOne" />
         <item itemvalue="Application.Thirty" />
         <item itemvalue="Application.TwentyNine" />
         <item itemvalue="Application.TwentyEight" />
-        <item itemvalue="Application.TwentySeven" />
       </list>
     </recent_temporary>
   </component>
@@ -316,12 +324,12 @@
       <workItem from="1573556511437" duration="2903000" />
       <workItem from="1573631640484" duration="2209000" />
       <workItem from="1573734074598" duration="2251000" />
-      <workItem from="1573785623505" duration="4980000" />
+      <workItem from="1573785623505" duration="6559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70221000" />
+    <option name="totallyTimeSpent" value="71800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
@@ -336,12 +344,12 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23206751" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23206751" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32911393" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20028612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20028612" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -369,13 +377,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sword/TwentyFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/TwentySeven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -722,8 +723,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        <state relative-caret-position="288">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
