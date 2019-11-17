@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyTwo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyTwo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sword/ThirtyTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyTwo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyTwo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/ThirtyTwo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm-syd/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-syd/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sword/ThirtyThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sword/ThirtyThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,35 +19,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+            <state relative-caret-position="326">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThirtyOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyOne.java">
+      <file leaf-file-name="ThirtyThree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+            <state relative-caret-position="391">
+              <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
               <folding>
-                <element signature="e#1588#1589#0" expanded="true" />
-                <element signature="e#1658#1659#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThirtyTwo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2310#2311#0" expanded="true" />
+                <element signature="e#2339#2340#0" expanded="true" />
+                <element signature="method#isUglyNumber#0;class#ThirtyThree#0" />
               </folding>
             </state>
           </provider>
@@ -96,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/Sword/Thirty.java" />
         <option value="$PROJECT_DIR$/src/Sword/ThirtyOne.java" />
         <option value="$PROJECT_DIR$/src/Sword/ThirtyTwo.java" />
+        <option value="$PROJECT_DIR$/src/Sword/ThirtyThree.java" />
         <option value="$PROJECT_DIR$/src/readme.txt" />
       </list>
     </option>
@@ -136,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -159,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -185,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThirtyTwo">
+  <component name="RunManager" selected="Application.ThirtyThree">
     <configuration name="Thirty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sword.Thirty" />
       <module name="algorithm-syd" />
@@ -208,8 +197,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThirtyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sword.ThirtyTwo" />
+    <configuration name="ThirtyThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sword.ThirtyThree" />
       <module name="algorithm-syd" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -219,8 +208,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TwentyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sword.TwentyEight" />
+    <configuration name="ThirtyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sword.ThirtyTwo" />
       <module name="algorithm-syd" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -283,19 +272,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TwentyEight" />
       <item itemvalue="Application.TwentyNine" />
       <item itemvalue="Application.Thirty" />
       <item itemvalue="Application.ThirtyOne" />
       <item itemvalue="Application.ThirtyTwo" />
+      <item itemvalue="Application.ThirtyThree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirtyThree" />
         <item itemvalue="Application.ThirtyTwo" />
         <item itemvalue="Application.ThirtyOne" />
         <item itemvalue="Application.Thirty" />
         <item itemvalue="Application.TwentyNine" />
-        <item itemvalue="Application.TwentyEight" />
       </list>
     </recent_temporary>
   </component>
@@ -324,12 +313,13 @@
       <workItem from="1573556511437" duration="2903000" />
       <workItem from="1573631640484" duration="2209000" />
       <workItem from="1573734074598" duration="2251000" />
-      <workItem from="1573785623505" duration="6559000" />
+      <workItem from="1573785623505" duration="6644000" />
+      <workItem from="1573978505143" duration="3792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71800000" />
+    <option name="totallyTimeSpent" value="75677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
@@ -344,12 +334,12 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23206751" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23206751" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32911393" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20028612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16809729" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -373,17 +363,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="16" />
+      <option name="time" value="17" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sword/TwentySeven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -697,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -712,29 +692,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="1254">
           <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
-            <element signature="e#1588#1589#0" expanded="true" />
-            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+          <folding>
+            <element signature="e#2310#2311#0" expanded="true" />
+            <element signature="e#2339#2340#0" expanded="true" />
+            <element signature="method#isUglyNumber#0;class#ThirtyThree#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="326">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>
