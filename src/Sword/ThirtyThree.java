@@ -8,7 +8,6 @@ package Sword;
  * 习惯上我们把1当做是第一个丑数。求按从小到大的顺序的第N个丑数。
  */
 public class ThirtyThree {
-
     /**
      * 运行时间：15ms
      * 占用内存：9168k
@@ -78,7 +77,7 @@ public class ThirtyThree {
         int count = 1;   // count为丑数数组中的个数，初始值为1是因为1是丑数。
         int p2 = 0, p3 = 0, p5 = 0; // 三个队列的指向头的指针
         res[0] = 1;
-        int minNum; 
+        int minNum;
         while (count < index) {
             // 得到三个队列中目前最小的值。准备加入数组。其实是模拟三个队列，并没有真的三个队列
             minNum = getMinNumber(res[p2]*2,getMinNumber(res[p3]*3,res[p5]*5));
@@ -111,7 +110,6 @@ public class ThirtyThree {
 //                num++;
 //                i--;
 //            }
-//
 //        }
 //        return res;
 //    }
@@ -141,6 +139,5 @@ public class ThirtyThree {
         for (int i = 0; i < 10; i++) {
             System.out.println(GetUglyNumber_Solution(i));
         }
-
     }
 }
