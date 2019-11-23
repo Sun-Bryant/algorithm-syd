@@ -31,8 +31,8 @@ public class FortyNine {
      * (3)否则，当 value < INT_MAX/10 时，本轮循环必不越界（扩大10倍后也小于 INT_MAX）
      *         eg : 214748363  <   214748364    ==>   214748363 * 10 > 2147483647    ==> 不越界
      *
-     * 运行时间：15ms
-     * 占用内存：9384k
+     * 运行时间：13ms
+     * 占用内存：9276k
      */
     public static int StrToInt(String str) {
         if (str == null || "".equals(str)) {
