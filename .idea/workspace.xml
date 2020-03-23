@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sword/SixtyFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sword/SixtyFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/FiftyFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-syd/Sword/FiftyFive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-syd/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-syd/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sword/SixtySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sword/SixtySeven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,17 +19,17 @@
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="71" column="2" lean-forward="true" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="13" />
+            <state relative-caret-position="412">
+              <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SixtyFour.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Sword/SixtyFour.java">
+      <file leaf-file-name="SixtyFive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sword/SixtyFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="25" column="73" lean-forward="true" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
+            <state relative-caret-position="338">
+              <caret line="42" column="21" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="42" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -40,8 +37,8 @@
       <file leaf-file-name="FiftySix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sword/FiftySix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="969">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -61,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sword/One.java" />
         <option value="$PROJECT_DIR$/src/Sword/Two.java" />
         <option value="$PROJECT_DIR$/src/Sword/Three.java" />
         <option value="$PROJECT_DIR$/src/Sword/Four.java" />
@@ -109,9 +105,10 @@
         <option value="$PROJECT_DIR$/src/Sword/FiftyFour.java" />
         <option value="$PROJECT_DIR$/src/Sword/FiftyFive.java" />
         <option value="$PROJECT_DIR$/src/Sword/FiftySix.java" />
-        <option value="$PROJECT_DIR$/src/readme.txt" />
         <option value="$PROJECT_DIR$/src/Sword/SixtySeven.java" />
         <option value="$PROJECT_DIR$/src/Sword/SixtyFour.java" />
+        <option value="$PROJECT_DIR$/src/readme.txt" />
+        <option value="$PROJECT_DIR$/src/Sword/SixtyFive.java" />
       </list>
     </option>
   </component>
@@ -200,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SixtyFour">
+  <component name="RunManager" selected="Application.SixtyFive">
     <configuration name="FiftyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sword.FiftyFive" />
       <module name="algorithm-syd" />
@@ -223,8 +220,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FiftyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sword.FiftyTwo" />
+    <configuration name="SixtyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sword.SixtyFive" />
       <module name="algorithm-syd" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -298,19 +295,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FiftyTwo" />
       <item itemvalue="Application.FiftyThree" />
       <item itemvalue="Application.FiftyFive" />
       <item itemvalue="Application.SixtySeven" />
       <item itemvalue="Application.SixtyFour" />
+      <item itemvalue="Application.SixtyFive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SixtyFive" />
         <item itemvalue="Application.SixtyFour" />
         <item itemvalue="Application.SixtySeven" />
         <item itemvalue="Application.FiftyFive" />
         <item itemvalue="Application.FiftyThree" />
-        <item itemvalue="Application.FiftyTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +359,12 @@
       <workItem from="1574904606680" duration="4358000" />
       <workItem from="1574994249829" duration="1866000" />
       <workItem from="1580736973100" duration="266000" />
-      <workItem from="1584933319625" duration="1137000" />
+      <workItem from="1584933319625" duration="3934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138381000" />
+    <option name="totallyTimeSpent" value="141178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
@@ -449,13 +446,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sword/Six.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/Three.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -785,24 +775,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="71" column="2" lean-forward="true" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/FiftySix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="28" selection-end-column="7" />
+        <state relative-caret-position="969">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/SixtyFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="25" column="73" lean-forward="true" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/SixtyFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="42" selection-end-column="21" />
         </state>
       </provider>
     </entry>
