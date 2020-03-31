@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sword/TwentyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sword/TwentyFour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,41 +13,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/readme.txt">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="298">
-                    <caret line="30" column="17" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="17" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="219">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwentyThree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TwentyFour.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sword/TwentyFour.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwentyThree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sword/TwentyThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="41">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -79,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sword/Eight.java" />
         <option value="$PROJECT_DIR$/src/Sword/Nine.java" />
         <option value="$PROJECT_DIR$/src/Sword/Ten.java" />
         <option value="$PROJECT_DIR$/src/Sword/Eleven.java" />
@@ -128,8 +120,9 @@
         <option value="$PROJECT_DIR$/src/Sword/Seventeen.java" />
         <option value="$PROJECT_DIR$/src/Sword/Eighteen.java" />
         <option value="$PROJECT_DIR$/src/Sword/TwentyTwo.java" />
-        <option value="$PROJECT_DIR$/src/readme.txt" />
         <option value="$PROJECT_DIR$/src/Sword/TwentyThree.java" />
+        <option value="$PROJECT_DIR$/src/readme.txt" />
+        <option value="$PROJECT_DIR$/src/Sword/TwentyFour.java" />
       </list>
     </option>
   </component>
@@ -381,12 +374,12 @@
       <workItem from="1574904606680" duration="4358000" />
       <workItem from="1574994249829" duration="1866000" />
       <workItem from="1580736973100" duration="266000" />
-      <workItem from="1584933319625" duration="19736000" />
+      <workItem from="1584933319625" duration="22545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156980000" />
+    <option name="totallyTimeSpent" value="159789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -468,13 +461,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sword/Eleven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/Twelve.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1558">
@@ -818,17 +804,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme.txt">
+    <entry file="file://$PROJECT_DIR$/src/Sword/TwentyThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="41">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sword/TwentyThree.java">
+    <entry file="file://$PROJECT_DIR$/src/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="219">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/TwentyFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
