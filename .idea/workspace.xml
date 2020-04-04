@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sword/Sixty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sword/SixtyOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,78 +18,34 @@
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="67" column="14" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="14" />
+            <state relative-caret-position="346">
+              <caret line="68" column="11" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sixty.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sixty.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sword/Sixty.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#894#903#0" expanded="true" />
+                <element signature="e#1412#1421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SixtyOne.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sword/SixtyOne.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="68" column="20" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="68" selection-end-column="20" />
+              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#775#784#0" expanded="true" />
-                <element signature="e#1292#1301#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FiftyNine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword/FiftyNine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="69" column="13" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="69" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#913#922#0" expanded="true" />
-                <element signature="e#1423#1432#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FiftyEight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword/FiftyEight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThirtyEight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyEight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwentySix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword/TwentySix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
-              <folding>
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwentyFour.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword/TwentyFour.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#871#879#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sword/Sixteen.java" />
         <option value="$PROJECT_DIR$/src/Sword/Nineteen.java" />
         <option value="$PROJECT_DIR$/src/Sword/Twenty.java" />
         <option value="$PROJECT_DIR$/src/Sword/TwentyOne.java" />
@@ -162,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/Sword/FiftyNine.java" />
         <option value="$PROJECT_DIR$/src/readme.txt" />
         <option value="$PROJECT_DIR$/src/Sword/Sixty.java" />
+        <option value="$PROJECT_DIR$/src/Sword/SixtyOne.java" />
       </list>
     </option>
   </component>
@@ -413,12 +368,12 @@
       <workItem from="1574904606680" duration="4358000" />
       <workItem from="1574994249829" duration="1866000" />
       <workItem from="1580736973100" duration="266000" />
-      <workItem from="1584933319625" duration="32799000" />
+      <workItem from="1584933319625" duration="34005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170043000" />
+    <option name="totallyTimeSpent" value="171249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -500,13 +455,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sword/Twenty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/TwentyOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
@@ -801,16 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sword/TwentyFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyNine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="989">
@@ -818,24 +756,6 @@
           <folding>
             <element signature="e#1010#1011#0" expanded="true" />
             <element signature="e#1053#1054#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyEight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sword/TwentySix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -851,17 +771,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/TwentyFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/TwentySix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/FiftyEight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
           <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="67" column="14" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -879,12 +820,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/Sixty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="68" column="20" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="68" selection-end-column="20" />
+        <state relative-caret-position="507">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#775#784#0" expanded="true" />
-            <element signature="e#1292#1301#0" expanded="true" />
+            <element signature="e#894#903#0" expanded="true" />
+            <element signature="e#1412#1421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="68" column="11" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword/SixtyOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#871#879#0" expanded="true" />
           </folding>
         </state>
       </provider>
