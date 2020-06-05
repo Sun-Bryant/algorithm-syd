@@ -15,7 +15,7 @@ import java.util.Queue;
  *  所以返回 [0, 1]
  *
  */
-public class LeetCode_1 {
+public class LeetCode_001 {
 
     /**
      * 方法二：一遍哈希表

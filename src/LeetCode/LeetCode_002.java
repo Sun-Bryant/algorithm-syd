@@ -15,7 +15,7 @@ import java.util.Queue;
  *  原因：342 + 465 = 807
  *
  */
-public class LeetCode_2 {
+public class LeetCode_002 {
 
     public class ListNode {
         int val;
