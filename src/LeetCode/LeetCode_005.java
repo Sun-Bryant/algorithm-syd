@@ -6,6 +6,8 @@ public class LeetCode_005 {
     /**
      * 采用中心扩散思想，马拉车算法。
      *
+     * 还有另外一种解法：动态规划
+     *
      * 具体题解参考：
      * https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zhong-xin-kuo-san-dong-tai-gui-hua-by-liweiwei1419/
      */
