@@ -41,7 +41,7 @@ public class LeetCode_006 {
      * 复杂度分析：
      * 时间复杂度 O(N) ：遍历一遍字符串 s；
      * 空间复杂度 O(N) ：各行字符串共占用 O(N) 额外空间。
-     * 
+     *
      */
     public String convert(String s, int numRows) {
         if (numRows < 2) {

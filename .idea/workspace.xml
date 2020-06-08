@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuoshen/comparator/Code03_Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuoshen/sort/HeapSort/Code03_HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuoshen/sort/HeapSort/Code04_SortArrayDistanceLessK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_007.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LeetCode_005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LeetCode_006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_006.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,15 +76,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode_006.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode_006.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_006.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+            <state relative-caret-position="627">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#871#886#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode_007.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_007.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -116,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sword/Fifty.java" />
         <option value="$PROJECT_DIR$/src/Sword/FiftyOne.java" />
         <option value="$PROJECT_DIR$/src/Sword/FiftyTwo.java" />
         <option value="$PROJECT_DIR$/src/Sword/FiftyThree.java" />
@@ -167,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/zuoshen/sort/HeapSort/Code03_HeapSort.java" />
         <option value="$PROJECT_DIR$/src/zuoshen/comparator/Code03_Comparator.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_006.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_007.java" />
       </list>
     </option>
   </component>
@@ -457,12 +463,12 @@
       <workItem from="1591352326798" duration="1515000" />
       <workItem from="1591456413683" duration="80000" />
       <workItem from="1591539633602" duration="2600000" />
-      <workItem from="1591613304583" duration="1789000" />
+      <workItem from="1591613304583" duration="2570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190757000" />
+    <option name="totallyTimeSpent" value="191538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -544,13 +550,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sword/Four.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/Ten.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -896,12 +895,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_006.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        <state relative-caret-position="627">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#871#886#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
