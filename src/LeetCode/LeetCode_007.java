@@ -43,7 +43,6 @@ public class LeetCode_007 {
                 return 0;
             ans = ans * 10 + pop;
             x /= 10;
-
         }
         return ans;
     }
