@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_014.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LeetCode_012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_012.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="LeetCode_011.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_011.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -28,20 +27,29 @@
       <file leaf-file-name="LeetCode_012.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_012.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-571">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode_013.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode_013.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_013.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="95">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode_014.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_014.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -61,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sword/SixtyFive.java" />
         <option value="$PROJECT_DIR$/src/Sword/SixtySix.java" />
         <option value="$PROJECT_DIR$/src/Sword/Four.java" />
         <option value="$PROJECT_DIR$/src/Sword/Seventeen.java" />
@@ -112,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_011.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_012.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_013.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_014.java" />
       </list>
     </option>
   </component>
@@ -151,7 +159,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,8 +190,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,12 +399,13 @@
       <workItem from="1591613304583" duration="2870000" />
       <workItem from="1591627897836" duration="1682000" />
       <workItem from="1591707108769" duration="2627000" />
-      <workItem from="1591795894254" duration="2302000" />
+      <workItem from="1591795894254" duration="2606000" />
+      <workItem from="1591965857227" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198449000" />
+    <option name="totallyTimeSpent" value="199457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="0" />
@@ -415,7 +424,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23390558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23676682" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -425,11 +434,11 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.13521127" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32911393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32911393" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,13 +487,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sword/TwentyFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword/ThirtyEight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -817,18 +819,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_012.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-571">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_013.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="95">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_014.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
