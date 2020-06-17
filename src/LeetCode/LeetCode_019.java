@@ -12,7 +12,7 @@ public class LeetCode_019 {
      * 移动 q，直到 p 与 q 之间相隔的元素个数为 n
      * 同时移动 p 与 q，直到 q 指向的为 NULL
      * 将 p 的下一个节点指向下下个节点
-     * 
+     *
      * 参考：
      * https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/dong-hua-tu-jie-leetcode-di-19-hao-wen-ti-shan-chu/
      */
