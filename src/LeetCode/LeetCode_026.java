@@ -21,7 +21,7 @@ public class LeetCode_026 {
 
     /**
      * 方法：双指针法
-     * 
+     *
      */
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) {
