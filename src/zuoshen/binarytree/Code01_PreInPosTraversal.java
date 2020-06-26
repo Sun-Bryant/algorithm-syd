@@ -80,7 +80,7 @@ public class Code01_PreInPosTraversal {
 		System.out.print("in-order: ");
 		if (head != null) {
 			Stack<Node> stack = new Stack<Node>();
-			while (!stack.isEmpty() || head != null) {   // 将二叉树仅仅分为左中的概念。
+			while (!stack.isEmpty() || head != null) {   //将二叉树仅仅分为左中的概念。
 				if (head != null) {  // 将二叉树左孩子入栈
 					stack.push(head);
 					head = head.left;
