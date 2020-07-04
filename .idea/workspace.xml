@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_049.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_050.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode_033.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_033.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode_034.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_034.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LeetCode_035.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_035.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,14 +80,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode_049.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode_049.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_049.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state relative-caret-position="90">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode_050.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_050.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code07_EvenTimesOddTimes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zuoshen/eor/Code07_EvenTimesOddTimes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -126,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/zuoshen/binarytree/Code01_PreInPosTraversal.java" />
         <option value="$PROJECT_DIR$/src/zuoshen/binarytree/Code09_SerializeAndReconstructTree.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_094.java" />
         <option value="$PROJECT_DIR$/src/zuoshen/binarytree/Code05_IsCBT.java" />
@@ -177,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_058.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_048.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_049.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_050.java" />
       </list>
     </option>
   </component>
@@ -245,7 +244,28 @@
               <item name="algorithm-syd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
+              <item name="eor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-syd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-syd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-syd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-syd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
               <item name="recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm-syd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-syd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zuoshen" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -483,15 +503,16 @@
       <workItem from="1593179674723" duration="1483000" />
       <workItem from="1593228218815" duration="29561000" />
       <workItem from="1593827325238" duration="1820000" />
-      <workItem from="1593832649492" duration="600000" />
+      <workItem from="1593832649492" duration="1859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="258950000" />
+    <option name="totallyTimeSpent" value="260209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -569,20 +590,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/zuoshen/binarytree/Code04_IsBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="68" column="5" selection-start-line="30" selection-start-column="4" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zuoshen/binarytree/Code05_IsCBT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -924,11 +931,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_049.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state relative-caret-position="90">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_050.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zuoshen/eor/Code07_EvenTimesOddTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>
