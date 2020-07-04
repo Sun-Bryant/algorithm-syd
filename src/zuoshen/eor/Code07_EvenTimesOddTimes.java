@@ -2,6 +2,7 @@ package zuoshen.eor;
 
 public class Code07_EvenTimesOddTimes {
 
+	// 0^N== N      N^N==0
 	public static void printOddTimesNum1(int[] arr) {
 		int eor = 0;
 		for (int cur : arr) {
