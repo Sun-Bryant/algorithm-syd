@@ -21,14 +21,14 @@ import java.util.List;
  */
 public class LeetCode_046 {
 
-    List<List<Integer>> ans = new ArrayList<>();
-    public List<List<Integer>> permute(int[] nums) {
+    static List<List<Integer>> ans = new ArrayList<>();
+    public static List<List<Integer>> permute(int[] nums) {
         ArrayList list = new ArrayList<>();
         process(nums, list);
         return ans;
     }
 
-    private void process(int[] nums, List<Integer> path) {
+    private static void process(int[] nums, List<Integer> path) {
         if (nums.length == path.size()) { //base case
             ans.add( new ArrayList<>(path));
         }
@@ -45,5 +45,10 @@ public class LeetCode_046 {
             // 撤销选择
             path.remove(path.size() - 1);
         }
+    }
+
+    public static void main(String[] args) {
+        permute(new int[]{1, 2, 3});
+        System.out.println(ans);
     }
 }

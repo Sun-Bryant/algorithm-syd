@@ -21,8 +21,8 @@ public class LeetCode_047 {
      *  接下来，如果当前节点与他的前一个节点一样，并其他的前一个节点已经被遍历过了，那我们也就不需要了。
      *
      */
-    List<List<Integer>> ans = new ArrayList<>();
-    public List<List<Integer>> permuteUnique(int[] nums) {
+    static List<List<Integer>> ans = new ArrayList<>();
+    public static List<List<Integer>> permuteUnique(int[] nums) {
         if (nums.length == 0) {
             return ans;
         }
@@ -32,7 +32,7 @@ public class LeetCode_047 {
         return ans;
     }
 
-    private void process(int[] nums, List<Integer> path, boolean[] visited) {
+    private static void process(int[] nums, List<Integer> path, boolean[] visited) {
         // base case
         if (nums.length == path.size()) {
             ans.add(new ArrayList(path));
@@ -53,5 +53,10 @@ public class LeetCode_047 {
             path.remove(path.size() - 1);
             visited[i] = false;
         }
+    }
+
+    public static void main(String[] args) {
+        permuteUnique(new int[]{1, 1, 2});
+        System.out.println(ans);
     }
 }

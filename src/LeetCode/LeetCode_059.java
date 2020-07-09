@@ -14,7 +14,7 @@ package LeetCode;
  * ]
  */
 public class LeetCode_059 {
-    
+
     // 和54题思路一样。
     public int[][] generateMatrix(int n) {
         int[][] ans = new int[n][n];
