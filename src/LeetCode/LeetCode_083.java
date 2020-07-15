@@ -31,6 +31,7 @@ public class LeetCode_083 {
         }
         return head;
     }
+
     public class ListNode {
         int val;
         ListNode next;
