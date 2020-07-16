@@ -47,15 +47,15 @@ public class LeetCode_081 {
                 continue;
             }
             if (nums[start] <= nums[mid]) { // 左半部分有序
-                if (target >= nums[start] && target < nums[mid]) { // target在前半部分
+                if (target >= nums[start] && target < nums[mid]) { // target在左半部分
                     end = mid - 1;
-                } else { //否则，去后半部分找
+                } else { //否则，去右半部分找
                     start = mid + 1;
                 }
             } else { // 右半部分有序
-                if (target > nums[mid] && target <= nums[end]) { //target在后半部分
+                if (target > nums[mid] && target <= nums[end]) { //target在右半部分
                     start = mid + 1;
-                } else {  //否则，去后半部分找
+                } else {  //否则，去左半部分找
                     end = mid - 1;
                 }
             }
