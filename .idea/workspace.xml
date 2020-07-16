@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LeetCode_089.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,14 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode_078.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_078.java">
+      <file leaf-file-name="LeetCode_206.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_206.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="437">
+              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -72,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/zuoshen/recursion/Code06_ConvertToLetterString.java" />
-        <option value="$PROJECT_DIR$/src/zuoshen/recursion/Code07_Knapsack.java" />
         <option value="$PROJECT_DIR$/src/zuoshen/recursion/Code08_CardsInLine.java" />
         <option value="$PROJECT_DIR$/src/zuoshen/recursion/Code09_NQueens.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_121.java" />
@@ -123,6 +119,8 @@
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_081.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_086.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_089.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_090.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_206.java" />
       </list>
     </option>
   </component>
@@ -454,12 +452,12 @@
       <workItem from="1594525087229" duration="2524000" />
       <workItem from="1594608951479" duration="1316000" />
       <workItem from="1594698004104" duration="4680000" />
-      <workItem from="1594864617617" duration="955000" />
+      <workItem from="1594864617617" duration="1749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290747000" />
+    <option name="totallyTimeSpent" value="291541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -553,20 +551,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_038.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_039.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_119.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
@@ -886,13 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_082.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_086.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -910,6 +887,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_090.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_078.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -917,6 +904,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_082.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
