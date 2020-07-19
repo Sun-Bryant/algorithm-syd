@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c65b04b-6c98-4a39-b4d2-8f40a1b8f44c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_008.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -96,11 +96,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode_043.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode_043.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_043.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+            <state relative-caret-position="361">
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode_008.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_008.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -122,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_033.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_034.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_035.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_036.java" />
@@ -173,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_093.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_095.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_043.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_008.java" />
       </list>
     </option>
   </component>
@@ -507,12 +516,12 @@
       <workItem from="1594864617617" duration="3591000" />
       <workItem from="1594958577944" duration="613000" />
       <workItem from="1595043487455" duration="2180000" />
-      <workItem from="1595123129171" duration="376000" />
+      <workItem from="1595123129171" duration="1208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296552000" />
+    <option name="totallyTimeSpent" value="297384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="6" />
@@ -606,13 +615,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_050.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/zuoshen/eor/Code07_EvenTimesOddTimes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -971,8 +973,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_043.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+        <state relative-caret-position="361">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_008.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
         </state>
       </provider>
     </entry>
